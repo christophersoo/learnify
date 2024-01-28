@@ -1,0 +1,1 @@
+openaikey = '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'
